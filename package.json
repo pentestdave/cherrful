@@ -1,0 +1,14 @@
+{
+  "name": "cherrful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  }
+}
